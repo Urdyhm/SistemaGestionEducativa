@@ -1,0 +1,2 @@
+Estudiante 
+Nombre: Sebastian, Edad: 27, Genero: M, DNI: 39599614, Numero de registro: 2017, Modalidad: Tecnologia e Informatica
